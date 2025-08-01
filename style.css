@@ -7,7 +7,7 @@
 .logo {
             display: flex;   
             letter-spacing: 15px;
-            position: absolute;
+            
             
             
 }
@@ -15,7 +15,7 @@
             display: flex;
             color: navy;
             text-align: center;
-            position: relative;
+            
             
             
 }
