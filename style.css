@@ -4,18 +4,21 @@
             gap: 10px;
             justify-content: space-around;
         }
+
+
+.top {
+            display: flex;
+}
 .logo {
-            display: flex;   
-            letter-spacing: 15px;
+              
+            
             
             
             
 }
 .logo_title {
-            display: flex;
+            
             color: navy;
-            text-align: center;
-            
-            
+            letter-spacing: 15px;
             
 }
