@@ -7,7 +7,14 @@
 .logo {
             display: flex;   
             letter-spacing: 15px;
-            color: navy;
             align-content: center;
+            
+}
+.logo_title {
+            display: flex;
+            align-content: center;
+            color: navy;
+            justify-content: center;
+            
             
 }
