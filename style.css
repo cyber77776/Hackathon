@@ -8,12 +8,12 @@
 
 .top {
             display: flex;
-            left: 50px;
-            background-color: blue;
+            
+            
 }
 
 .logo_title {
-            
+            background-color: rgb(207,240,255);
             color: navy;
             letter-spacing: 15px;
             transform: translateY(-12.5px)
