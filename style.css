@@ -8,14 +8,14 @@
 
 .top {
             display: flex;
-            left: 20px;
+            left: 50px;
 }
 
 .logo_title {
             
             color: navy;
             letter-spacing: 15px;
-            transform: translateY(-25px)
+            transform: translateY(-12.5px)
             
             
             
