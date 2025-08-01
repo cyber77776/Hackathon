@@ -4,3 +4,8 @@
             gap: 10px;
             justify-content: space-around;
         }
+.logo {
+            display: flex;   
+            letter-spacing: 15px;
+            color: navy
+}
