@@ -9,6 +9,7 @@
 .top {
             display: flex;
             left: 50px;
+            background-color: blue;
 }
 
 .logo_title {
