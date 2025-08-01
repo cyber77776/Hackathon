@@ -12,9 +12,8 @@
 }
 .logo_title {
             display: flex;
-            align-content: center;
             color: navy;
-            justify-content: center;
+            text-align: center;
             
             
 }
