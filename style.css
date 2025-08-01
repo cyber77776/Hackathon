@@ -8,12 +8,13 @@
 
 .top {
             display: flex;
+            justify-content: center;
 }
 
 .logo_title {
             
             color: navy;
             letter-spacing: 15px;
-            text-align: center;
+            
             
 }
